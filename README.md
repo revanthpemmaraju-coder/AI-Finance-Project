@@ -31,8 +31,8 @@
 
 ### Option 1 — Open Directly (No Setup)
 ```bash
-git clone https://github.com/YOUR_USERNAME/alpha-engine.git
-cd alpha-engine
+git clone https://github.com/YOUR_USERNAME/AI-Finance-Project.git
+cd AI-Finance-Project
 open index.html   # Mac
 # or
 start index.html  # Windows
@@ -40,7 +40,7 @@ start index.html  # Windows
 
 ### Option 2 — Local Server (Recommended for CORS)
 ```bash
-cd alpha-engine
+cd AI-Finance-Project
 python3 -m http.server 8080
 # Open http://localhost:8080
 ```
@@ -48,7 +48,7 @@ python3 -m http.server 8080
 ### Option 3 — Deploy to GitHub Pages
 1. Push to GitHub
 2. Go to repo Settings → Pages → Source: `main` branch, `/root`
-3. Your dashboard is live at `https://YOUR_USERNAME.github.io/alpha-engine`
+3. Your dashboard is live at `https://YOUR_USERNAME.github.io/AI-Finance-Project`
 
 ---
 
